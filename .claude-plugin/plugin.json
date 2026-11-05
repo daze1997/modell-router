@@ -1,0 +1,6 @@
+{
+  "name": "modell-router",
+  "version": "0.1.0",
+  "description": "Leitet jede Anfrage automatisch an das Modell mit dem besten Preis-Leistungs-Verhältnis (Haiku, Sonnet, Opus)",
+  "types": "./types/index.d.ts"
+}
